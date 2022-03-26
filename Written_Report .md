@@ -24,6 +24,8 @@ In this way we obtain a tablet like the following:
 With the above information we obtain a pivot chart that allows us to better visualize the behavior of the data. 
 We had use the linear pivot chart because we are considering a behavior over time.
 
+![Theater Outcomes by Lauch Date](path/to/Theater Outcomes by Lauch Date.png)
+
 In the chart with the same name as this first analysis can be seen that the month in which the campaigns have been most successful was May. 
 While December seems to be the month with the worst success performance. 
 Failed campaigns show that May and October are also not good launch months.
@@ -33,6 +35,8 @@ Failed campaigns show that May and October are also not good launch months.
 For this analysis, an main column was created with intervals of amounts of funds in order to break down the information and have a more detailed visualization of it. 
 Twelve intervals were created. That started at less than 1,000 dollars and increased from 5,000 to 5,000 until reaching 50,000 or more; and they were related to the number of cases of successful, failures and cancellations to assess their impact. 
 Later, percentages were taken to make the results more understandable and they were graphed.
+
+![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
 
 On the chart with the same name as this analysis, can be seen that the success campaigns are those that had a reduced fund goals of between $1,000 and $15,000 dollars, while those that had the greatest number of failures were those that expected larger amounts of funds, specifically $45,000 or more. 
 In addition, a campaign with a raising funds expectations around $30,000 is insecure.
