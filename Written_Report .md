@@ -36,7 +36,7 @@ For this analysis, an main column was created with intervals of amounts of funds
 Twelve intervals were created. That started at less than 1,000 dollars and increased from 5,000 to 5,000 until reaching 50,000 or more; and they were related to the number of cases of successful, failures and cancellations to assess their impact. 
 Later, percentages were taken to make the results more understandable and they were graphed.
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/LAURYMEOW/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 On the chart with the same name as this analysis, can be seen that the success campaigns are those that had a reduced fund goals of between $1,000 and $15,000 dollars, while those that had the greatest number of failures were those that expected larger amounts of funds, specifically $45,000 or more. 
 In addition, a campaign with a raising funds expectations around $30,000 is insecure.
