@@ -24,7 +24,7 @@ In this way we obtain a tablet like the following:
 With the above information we obtain a pivot chart that allows us to better visualize the behavior of the data. 
 We had use the linear pivot chart because we are considering a behavior over time.
 
-![Theater Outcomes by Lauch Date](path/to/Theater Outcomes by Lauch Date.png)
+![Theater Outcomes by Lauch Date](https://github.com/LAURYMEOW/Kickstarter-analysis/blob/main/Theater%20Outcomes%20by%20Launch%20Date.png)
 
 In the chart with the same name as this first analysis can be seen that the month in which the campaigns have been most successful was May. 
 While December seems to be the month with the worst success performance. 
